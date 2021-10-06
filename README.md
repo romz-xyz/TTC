@@ -1,3 +1,6 @@
+### Tutorial YouTube :
+https://youtu.be/YNO9M08TAEY
+
 # Install
 $ pkg update && pkg upgrade <br>
 $ pkg install git <br>
